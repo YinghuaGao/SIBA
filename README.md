@@ -39,12 +39,14 @@ CUDA_VISIBLE_DEVICES=0 python train_poison_cifar.py --save_dir save_backdoor --s
 
 If this work or our codes are useful for your research, please kindly cite our paper as follows.
 
+```
 @article{gao2024backdoor,
   title={Backdoor attack with sparse and invisible trigger},
   author={Gao, Yinghua and Li, Yiming and Gong, Xueluan and Li, Zhifeng and Xia, Shu-Tao and Wang Qian},
   journal={IEEE Transactions on Information Forensics and Security},
   year={2024}
 }
+```
 
 ## Acknowledgement
 
